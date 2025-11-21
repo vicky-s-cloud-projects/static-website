@@ -80,6 +80,12 @@ Below is a simplified summary of how the website was deployed:
 * <img width="1920" height="1038" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/826c735e-2af8-4a6b-bf43-cb775cf83bfe" />
 
 
+## Finaly website is live and accessable securely through Https:
+
+* <img width="1920" height="1049" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/6449af74-4dbd-4dc7-9695-ccf32d037751" />
+
+
+
 ---
 
 ## 📦 Future Enhancements
